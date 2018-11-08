@@ -1,0 +1,17 @@
+/* *****************************************************************************
+* Author: Angie Stropp
+* URL: http://www.angiestropp.com
+***************************************************************************** */
+section.anatomical-hierarchy { 
+	margin: 20px auto; 
+	border: 1px solid rgba(138, 149, 164, 0.25);
+  box-shadow: 2px 3px 6px rgba(138, 149, 164, 0.25);
+  background-color: rgba(138, 149, 164, 0.25);
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 500px;
+}
+section.anatomical-hierarchy .level-1 { margin-left: 0; }
+section.anatomical-hierarchy .level-2 { margin-left: 20px; }
+section.anatomical-hierarchy .level-3 { margin-left: 40px; }
+section.anatomical-hierarchy .level-4 { margin-left: 60px; }
